@@ -7,7 +7,7 @@
 ---
 
 ### 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/suman-k0609?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Suman0603?theme=dark&ext=heatmap)
 
 ---
 
