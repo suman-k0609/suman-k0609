@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 Hi, I'm Suman Kumari
 
-<!--
-**suman-k0609/suman-k0609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Practicing Data Structures & Algorithms  
+🚀 Preparing for technical interviews  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/suman-k0609?theme=dark&ext=heatmap)
+
+---
+
+### 🧠 DSA Practice
+- Solved **136+ LeetCode problems**
+- Easy • Medium • Hard
+- Language: **C++**
+- Auto-synced to GitHub using **LeetHub**
+
+🔗 **DSA Repository:**  
+👉 https://github.com/suman-k0609/DSA-LeetCode
+
+---
+
+### 🌱 What I'm working on
+- Strengthening problem-solving skills
+- Revising core DSA topics
+- Building consistency on LeetCode & GitHub
