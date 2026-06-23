@@ -1,5 +1,8 @@
 ## 👋 Hi, I'm Suman Kumari
 
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Suman0603&theme=dark)
+
 🎓 Computer Science Student  
 💻 Practicing Data Structures & Algorithms  
 🚀 Preparing for technical interviews  
