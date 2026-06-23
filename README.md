@@ -2,6 +2,8 @@
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=Suman0603&theme=dark)
+https://streak-stats.demolab.com?user=Suman0603&theme=dark&cache_seconds=1
+https://streak-stats.demolab.com?user=Suman0603&theme=dark&v=2
 
 🎓 Computer Science Student  
 💻 Practicing Data Structures & Algorithms  
